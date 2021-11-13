@@ -1,3 +1,27 @@
+.names{
+    flex: 7;
+    border: 1px solid black;
+    background-color: yellowgreen;
+
+}
+
+.flex{
+    display:flex;
+    height: 40vh;
+    align-items: center;
+    gap: .5rem;
+}
+.column{
+    flex: 5;
+    float: right;
+    padding: 1.5rem;
+    margin: .1rem;
+    border: 1px grey;
+    background-color: orangered;
+    flex-direction: column;
+
+}
+
 h1{
     font-style: bold;
     color: orangered;
@@ -7,4 +31,13 @@ h1{
 }
 .namingfemales{
     color:blue;
+}
+.form > div > button{
+    background-color: greenyellow;
+    border-radius: 6rem;
+    width: 40%;
+}
+.form > div > input{
+    background-color: lawngreen;
+    border-radius: 5rem;
 }

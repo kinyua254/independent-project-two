@@ -1,24 +1,57 @@
+
+  
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="CSS/style.css" rel="stylesheet">
-    <script src="./script.js"></script>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="CSS/style.css" rel="stylesheet">
+        <script src="./script.js"></script>
 
-</head>
-<body>
-    <div class = "Akan">
-        <div class = 'description'>
-            <h1>Ghanian cultural Akan Naming system</h1>
-            <p>This web application takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
+    </head>
+    <body>
+        <div class="ghanian">
+            <div class="akandescription">
+                <h1>Ghanian cultural Akan Naming system</h1>
+                <p>This web application takes a user's birthday and calculates
+                    the day of the week they were born and then depending on
+                    their gender outputs their Akan Name.<br>
 
-                Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.<br> <strong>Here are the Ghanian day names:</strong></p>
-                <p class = "naming">For <em>MALES:<br></em> Sunday: Kwasi , Monday : Kwadwo, Tuesday : Kwabena, Wednesday : Kwaku, Thursday : Yaw, Friday : Kofi, Saturday : kwame</p>
-                <p class = "namingfemales">For <em>Females:<br></em>Sunday : Akosua, Monday : Adwoa, Tuesday : Abenaa, Wednesday : Akua, Thursday : Yaa, Friday : Afua, Saturday : Ama. </p>
+                    Akan names are derived from Ghanian culture. Frequently in
+                    Ghana, children are given their first name as a 'day name'
+                    which corresponds to the day in the week they were born.</p>
+                <div class="flex">
+                    <div class="names">
+                        <p><strong>Here are the Ghanian day names:</strong></p>
+                        <p class="naming">For <em>MALES:<br></em> Sunday: Kwasi
+                            , Monday : Kwadwo, Tuesday : Kwabena, Wednesday :
+                            Kwaku, Thursday : Yaw,<br>Friday : Kofi, Saturday :
+                            kwame</p>
+                        <p class="namingfemales">For <em>Females:<br></em>Sunday
+                            : Akosua, Monday : Adwoa, Tuesday : Abenaa,
+                            Wednesday : Akua, Thursday : Yaa, Friday : Afua,
+                            Saturday : Ama.
+                        </p>
+                    </div>
 
+                    <div class="column">
+                        <h2>Enter your birth dates here:</h2>
+                        <div class="form">
+                            <div><input type="text" id="day" class=""
+                                    placeholder="DAY"></div>
+                            <div><input type="text" id="month" class=""
+                                    placeholder="MONTH"></div>
+                            <div><input type="text" id="year" class=""
+                                    placeholder="YEAR"></div>
+                            <div>
+                                <button>GET YOUR AKAN NAME</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
         </div>
-    </div>
-</body>
+    </body>
 </html>
