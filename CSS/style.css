@@ -1,4 +1,10 @@
 h1{
-    font-style: italic;
-    color:orangered;
+    font-style: bold;
+    color: orangered;
+}
+.naming{
+    color: orchid;
+}
+.namingfemales{
+    color:blue;
 }

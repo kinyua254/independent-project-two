@@ -1,5 +1,5 @@
 # Victor Mutugi Portfolio
-#### A web application that takes user input and uses it to provide a favourable output
+#### A web application that prompts the user to input their birthday dates and uses the information to generate their first names according to the Ghanaian cultural Akan naming system.
 #### By **Victor Mutugi**
 ## Description
 This web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
