@@ -7,7 +7,9 @@ This web application that takes a user's birthday and calculates the day of the 
 * Clone the repo {git clone https://github.com/kinyua254/independent-project-two.git}
 *Visual studio code for editing the files
 ## Live link
-
+*https://kinyua254.github.io/independent-project-two/
+## known bugs
+This web application only gives an output only on gender.
 ## Technologies Used
 *HTML
 *CSS
