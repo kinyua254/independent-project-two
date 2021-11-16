@@ -17,9 +17,11 @@ function akan(){
 
     
     if(year <= 0 || year > 2021){
+        document.getElementById("yearerror")
         alert("enter correct year!");
     }
     else if(year ==" "){
+        document.getElementById("yearerror")
         alert("enter correct values");
     }
     else{
@@ -28,9 +30,11 @@ function akan(){
     
 
     if(month <= 0 || month > 12){
+        document.getElementById("montherror")
         alert("enter correct month!");
     }
     else if(month ==" "){
+        document.getElementById("montherror")
         alert("enter correct values");
     }
     else{
@@ -40,9 +44,11 @@ function akan(){
 
 
     if(day <= 0 || day > 31){
+        document.getElementById("dayerror")
         alert("enter correct day!");
     }
     else if(day ==" "){
+        document.getElementById("dayerror")
         alert("enter correct values");
     }
     else{
