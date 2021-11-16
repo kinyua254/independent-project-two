@@ -9,6 +9,8 @@ This web application that takes a user's birthday and calculates the day of the 
 *Go to the live link below and click on it.
 *This will take you directly to the application
 *Fill in your date of birth and choose gender.
+*Enter the correct value details and get your Akan name
+*Once you enter values that are not correct you will get message alerts asking you to fill in the correct details
 ## Live link
 *https://kinyua254.github.io/independent-project-two/
 ## Known Bugs
