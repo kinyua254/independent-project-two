@@ -18,4 +18,4 @@ This web application  unfortunately only outputs gender type.
 *officialkinyua10@gmail.com
 ### License
 This is under the [MIT](LICENSE) license
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {year} 
