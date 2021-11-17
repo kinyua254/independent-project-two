@@ -22,11 +22,10 @@ This web application that takes a user's birthday and calculates the day of the 
 
 ## Support and contact details
 *officialkinyua10@gmail.com
-<<<<<<< HEAD
 
 ## License
 This is under the MIT license Copyright (c) {year}
-=======
+
 ### License
 This is under the [MIT](LICENSE) license
 Copyright (c) {year} 
