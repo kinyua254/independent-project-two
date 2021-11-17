@@ -2,7 +2,6 @@
 ## Description
 ## This web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 ## Setup/Installation Requirements
-<<<<<<< HEAD
 ## Clone the repo {git clone https://github.com/kinyua254/independent-project-two.git} *Visual studio code for editing the files *Go to the live link below and click on it. *This will take you directly to the application *Fill in your date of birth and choose gender. *Enter the correct value details and get your Akan name *Once you enter values that are not correct you will get message alerts asking you to fill in the correct details
 * Clone the repo {git clone https://github.com/kinyua254/independent-project-two.git}
 *Visual studio code for editing the files
