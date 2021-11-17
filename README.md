@@ -23,7 +23,9 @@ This web application that takes a user's birthday and calculates the day of the 
 *This application has no known bugs 
 
 ## Technologies Used
-*HTML *CSS *javascript
+*HTML 
+*CSS 
+*javascript
 
 ## Support and contact details
 *officialkinyua10@gmail.com
